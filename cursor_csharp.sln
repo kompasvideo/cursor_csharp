@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCSharpConsoleApp", "01_console\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp.csproj", "{49CCBF0C-14D2-46E6-9CFC-90F3E4338FF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frimen", "Frimen", "{4D2DCFD1-662C-4C57-96B3-CAEF59AA5AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "034_WebApplicationMVC", "Frimen\034_Project\034_WebApplicationMVC\034_WebApplicationMVC\034_WebApplicationMVC.csproj", "{136108E8-4E9E-41A4-882F-AEFDBCF94B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyInvites", "Frimen\034_Project\02_mvc\PartyInvites.csproj", "{977FCABF-2BE7-4D6B-9CA4-75536D67528B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportStore_08", "Frimen\SportStore_8\SportStore_08.csproj", "{E5623784-06B2-4DE2-AFDA-9121FCC00E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeoplesAndCats", "Frimen\PeoplesAndCats\PeoplesAndCats.csproj", "{08F655F3-E4DD-4DF0-9197-357B64BA991D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49CCBF0C-14D2-46E6-9CFC-90F3E4338FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CCBF0C-14D2-46E6-9CFC-90F3E4338FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CCBF0C-14D2-46E6-9CFC-90F3E4338FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CCBF0C-14D2-46E6-9CFC-90F3E4338FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136108E8-4E9E-41A4-882F-AEFDBCF94B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136108E8-4E9E-41A4-882F-AEFDBCF94B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136108E8-4E9E-41A4-882F-AEFDBCF94B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136108E8-4E9E-41A4-882F-AEFDBCF94B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977FCABF-2BE7-4D6B-9CA4-75536D67528B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977FCABF-2BE7-4D6B-9CA4-75536D67528B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977FCABF-2BE7-4D6B-9CA4-75536D67528B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977FCABF-2BE7-4D6B-9CA4-75536D67528B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5623784-06B2-4DE2-AFDA-9121FCC00E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5623784-06B2-4DE2-AFDA-9121FCC00E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5623784-06B2-4DE2-AFDA-9121FCC00E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5623784-06B2-4DE2-AFDA-9121FCC00E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F655F3-E4DD-4DF0-9197-357B64BA991D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F655F3-E4DD-4DF0-9197-357B64BA991D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F655F3-E4DD-4DF0-9197-357B64BA991D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F655F3-E4DD-4DF0-9197-357B64BA991D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{136108E8-4E9E-41A4-882F-AEFDBCF94B3B} = {4D2DCFD1-662C-4C57-96B3-CAEF59AA5AB5}
+		{977FCABF-2BE7-4D6B-9CA4-75536D67528B} = {4D2DCFD1-662C-4C57-96B3-CAEF59AA5AB5}
+		{E5623784-06B2-4DE2-AFDA-9121FCC00E73} = {4D2DCFD1-662C-4C57-96B3-CAEF59AA5AB5}
+		{08F655F3-E4DD-4DF0-9197-357B64BA991D} = {4D2DCFD1-662C-4C57-96B3-CAEF59AA5AB5}
+	EndGlobalSection
+EndGlobal

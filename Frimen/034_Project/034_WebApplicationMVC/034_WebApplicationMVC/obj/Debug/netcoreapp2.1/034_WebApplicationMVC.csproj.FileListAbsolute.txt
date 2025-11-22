@@ -34,3 +34,4 @@ C:\My\IDE AI\Cursor\C#\Frimen\034_Project\034_WebApplicationMVC\034_WebApplicati
 C:\My\IDE AI\Cursor\C#\Frimen\034_Project\034_WebApplicationMVC\034_WebApplicationMVC\obj\Debug\netcoreapp2.1\034_WebApplicationMVC.pdb
 C:\My\IDE AI\Cursor\C#\Frimen\034_Project\034_WebApplicationMVC\034_WebApplicationMVC\obj\Debug\netcoreapp2.1\034_WebApplicationMVC.genruntimeconfig.cache
 C:\My\IDE AI\Cursor\C#\Frimen\034_Project\034_WebApplicationMVC\034_WebApplicationMVC\obj\Debug\netcoreapp2.1\034_WebA.C85D3218.Up2Date
+C:\My\IDE AI\Cursor\C#\Frimen\034_Project\034_WebApplicationMVC\034_WebApplicationMVC\obj\Debug\netcoreapp2.1\034_WebApplicationMVC.sourcelink.json

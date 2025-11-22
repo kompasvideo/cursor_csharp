@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "p6h9bNaKfG8=",
+  "dgSpecHash": "091aQyNaNUc=",
   "success": true,
   "projectFilePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
   "expectedPackageFiles": [
@@ -286,7 +286,7 @@
     {
       "code": "NU1902",
       "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.App' 2.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-23cv-jh4v-vffm",
+      "message": "У пакета \"Microsoft.AspNetCore.App\" 2.1.1 есть известная уязвимость https://github.com/advisories/GHSA-23cv-jh4v-vffm (уровень серьезности: средний уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -298,7 +298,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-655q-9gvg-q4cm",
+      "message": "У пакета \"Microsoft.AspNetCore.App\" 2.1.1 есть известная уязвимость https://github.com/advisories/GHSA-655q-9gvg-q4cm (уровень серьезности: высокий уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -310,55 +310,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-6px8-22w5-w334",
-      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
-      "libraryId": "Microsoft.AspNetCore.App",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.App' 2.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-cgpw-2gph-2r9g",
-      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
-      "libraryId": "Microsoft.AspNetCore.App",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-f8qx-mjcq-wfgx",
-      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
-      "libraryId": "Microsoft.AspNetCore.App",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-hxrm-9w7p-39cc",
-      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
-      "libraryId": "Microsoft.AspNetCore.App",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.App' 2.1.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-j378-6mmw-hqfr",
+      "message": "У пакета \"Microsoft.AspNetCore.App\" 2.1.1 есть известная уязвимость https://github.com/advisories/GHSA-6px8-22w5-w334 (уровень серьезности: высокий уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -370,7 +322,7 @@
     {
       "code": "NU1902",
       "level": "Warning",
-      "message": "Package 'Microsoft.AspNetCore.App' 2.1.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-prrf-397v-83xh",
+      "message": "У пакета \"Microsoft.AspNetCore.App\" 2.1.1 есть известная уязвимость https://github.com/advisories/GHSA-cgpw-2gph-2r9g (уровень серьезности: средний уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -382,7 +334,55 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2xjx-v99w-gqf3",
+      "message": "У пакета \"Microsoft.AspNetCore.App\" 2.1.1 есть известная уязвимость https://github.com/advisories/GHSA-f8qx-mjcq-wfgx (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"Microsoft.AspNetCore.App\" 2.1.1 есть известная уязвимость https://github.com/advisories/GHSA-hxrm-9w7p-39cc (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"Microsoft.AspNetCore.App\" 2.1.1 есть известная уязвимость https://github.com/advisories/GHSA-j378-6mmw-hqfr (уровень серьезности: высокий уровень)",
+      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "У пакета \"Microsoft.AspNetCore.App\" 2.1.1 есть известная уязвимость https://github.com/advisories/GHSA-prrf-397v-83xh (уровень серьезности: средний уровень)",
+      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "У пакета \"Microsoft.NETCore.App\" 2.1.0 есть известная уязвимость https://github.com/advisories/GHSA-2xjx-v99w-gqf3 (уровень серьезности: высокий уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -394,7 +394,7 @@
     {
       "code": "NU1902",
       "level": "Warning",
-      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-3gp9-h8hw-pxpw",
+      "message": "У пакета \"Microsoft.NETCore.App\" 2.1.0 есть известная уязвимость https://github.com/advisories/GHSA-3gp9-h8hw-pxpw (уровень серьезности: средний уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -406,7 +406,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-3w5p-jhp5-c29q",
+      "message": "У пакета \"Microsoft.NETCore.App\" 2.1.0 есть известная уязвимость https://github.com/advisories/GHSA-3w5p-jhp5-c29q (уровень серьезности: высокий уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -418,7 +418,7 @@
     {
       "code": "NU1902",
       "level": "Warning",
-      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5633-f33j-c6f7",
+      "message": "У пакета \"Microsoft.NETCore.App\" 2.1.0 есть известная уязвимость https://github.com/advisories/GHSA-5633-f33j-c6f7 (уровень серьезности: средний уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -430,7 +430,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6px8-22w5-w334",
+      "message": "У пакета \"Microsoft.NETCore.App\" 2.1.0 есть известная уязвимость https://github.com/advisories/GHSA-6px8-22w5-w334 (уровень серьезности: высокий уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -442,7 +442,7 @@
     {
       "code": "NU1903",
       "level": "Warning",
-      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g5vf-38cp-4px9",
+      "message": "У пакета \"Microsoft.NETCore.App\" 2.1.0 есть известная уязвимость https://github.com/advisories/GHSA-g5vf-38cp-4px9 (уровень серьезности: высокий уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -454,7 +454,7 @@
     {
       "code": "NU1902",
       "level": "Warning",
-      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vgwq-hfqc-58wv",
+      "message": "У пакета \"Microsoft.NETCore.App\" 2.1.0 есть известная уязвимость https://github.com/advisories/GHSA-vgwq-hfqc-58wv (уровень серьезности: средний уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
@@ -466,7 +466,7 @@
     {
       "code": "NU1902",
       "level": "Warning",
-      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-x5qj-9vmx-7g6g",
+      "message": "У пакета \"Microsoft.NETCore.App\" 2.1.0 есть известная уязвимость https://github.com/advisories/GHSA-x5qj-9vmx-7g6g (уровень серьезности: средний уровень)",
       "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
       "warningLevel": 1,
       "filePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
