@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\01_console\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj": {}
+    "C:\\My\\IDE AI\\Cursor\\C#\\01_console\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\01_console\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj": {
+    "C:\\My\\IDE AI\\Cursor\\C#\\01_console\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\01_console\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj",
+        "projectUniqueName": "C:\\My\\IDE AI\\Cursor\\C#\\01_console\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj",
         "projectName": "SimpleCSharpConsoleApp",
-        "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\01_console\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj",
+        "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\01_console\\SimpleCSharpConsoleApp\\SimpleCSharpConsoleApp.csproj",
         "packagesPath": "C:\\Users\\andrey\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\01_console\\SimpleCSharpConsoleApp\\obj\\",
+        "outputPath": "C:\\My\\IDE AI\\Cursor\\C#\\01_console\\SimpleCSharpConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -48,8 +48,8 @@
         "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100-rc.2.25502.107\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

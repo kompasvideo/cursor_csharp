@@ -41,3 +41,5 @@ C:\My\IDE AI\Cursor\C#\Frimen\034_Project\02_mvc\obj\Debug\net5.0\PartyInvites.p
 C:\My\IDE AI\Cursor\C#\Frimen\034_Project\02_mvc\obj\Debug\net5.0\PartyInvites.genruntimeconfig.cache
 C:\My\IDE AI\Cursor\C#\Frimen\034_Project\02_mvc\obj\Debug\net5.0\ref\PartyInvites.dll
 C:\My\IDE AI\Cursor\C#\Frimen\034_Project\02_mvc\obj\Debug\net5.0\PartyInv.A2E69124.Up2Date
+C:\My\IDE AI\Cursor\C#\Frimen\034_Project\02_mvc\obj\Debug\net5.0\PartyInvites.sourcelink.json
+C:\My\IDE AI\Cursor\C#\Frimen\034_Project\02_mvc\obj\Debug\net5.0\Razor\Views\Home\MyView.cshtml.g.cs
