@@ -40,11 +40,12 @@
     {
       "label": "build_2",
       "command": "dotnet",
-      "type": "process",
+      "type": "shell",
       "args": [
         "build",
         "${workspaceFolder}/PeoplesAndCats.sln"
       ],
+      "options": { "cwd": "${workspaceFolder}"},
       "problemMatcher": "$msCompile"
     }
   ]

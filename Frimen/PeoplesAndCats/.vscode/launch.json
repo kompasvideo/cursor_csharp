@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": ".NET Core Launch (web)",
+      "name": "run .NET Core Launch (web)",
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build_2",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "name": ".NET Core Launch (web)_2",
+      "name": ".NET Core Launch (web)",
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build",
