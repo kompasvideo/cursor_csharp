@@ -6,5 +6,15 @@
     <div>
         <h3>@p.Name</h3>
         @p.Age
+        @if (p.Cats != null && p.Cats.Count > 0)
+        {
+            <div>
+            @foreach (var c in p.Cats)
+            {
+                <h4>@c.Name</h4>
+                @c.Age
+            }
+            </div>
+        }
     </div>
 }
