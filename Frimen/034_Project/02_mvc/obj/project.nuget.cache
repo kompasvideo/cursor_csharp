@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qz5AY82fKYE=",
+  "dgSpecHash": "JUkoUtiKCyI=",
   "success": true,
-  "projectFilePath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\02_mvc\\PartyInvites.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/andrejbarysnikov/RiderProjects/cursor_csharp/Frimen/034_Project/02_mvc/PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrejbarysnikov/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/andrejbarysnikov/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/andrejbarysnikov/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/bin/Debug/net7.0/SimpleCSharpConsoleApp
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/bin/Debug/net7.0/SimpleCSharpConsoleApp.deps.json
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/bin/Debug/net7.0/SimpleCSharpConsoleApp.runtimeconfig.json
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/bin/Debug/net7.0/SimpleCSharpConsoleApp.dll
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/bin/Debug/net7.0/SimpleCSharpConsoleApp.pdb
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/SimpleCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/SimpleCSharpConsoleApp.AssemblyInfo.cs
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/SimpleCSharpConsoleApp.sourcelink.json
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/SimpleCSharpConsoleApp.dll
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/refint/SimpleCSharpConsoleApp.dll
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/SimpleCSharpConsoleApp.pdb
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/SimpleCSharpConsoleApp.genruntimeconfig.cache
+/Users/andrejbarysnikov/RiderProjects/cursor_csharp/01_console/SimpleCSharpConsoleApp/obj/Debug/net7.0/ref/SimpleCSharpConsoleApp.dll
