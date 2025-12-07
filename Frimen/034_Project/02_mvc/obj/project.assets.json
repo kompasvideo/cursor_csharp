@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\02_mvc\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\My\\IDE AI\\Cursor\\cursor_csharp\\Frimen\\034_Project\\02_mvc\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\02_mvc\\PartyInvites.csproj",
+      "projectPath": "C:\\My\\IDE AI\\Cursor\\cursor_csharp\\Frimen\\034_Project\\02_mvc\\PartyInvites.csproj",
       "packagesPath": "C:\\Users\\andrey\\.nuget\\packages\\",
-      "outputPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\02_mvc\\obj\\",
+      "outputPath": "C:\\My\\IDE AI\\Cursor\\cursor_csharp\\Frimen\\034_Project\\02_mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

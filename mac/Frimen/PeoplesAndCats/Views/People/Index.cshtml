@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<People>
+@foreach (var p in Model)    {
+    <div>
+        <h3>@p.Name</h3>
+        @p.Age
+    </div>
+}

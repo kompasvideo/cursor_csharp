@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj": {}
+    "C:\\My\\IDE AI\\Cursor\\cursor_csharp\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj": {}
   },
   "projects": {
-    "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj": {
+    "C:\\My\\IDE AI\\Cursor\\cursor_csharp\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+        "projectUniqueName": "C:\\My\\IDE AI\\Cursor\\cursor_csharp\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
         "projectName": "034_WebApplicationMVC",
-        "projectPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
+        "projectPath": "C:\\My\\IDE AI\\Cursor\\cursor_csharp\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\034_WebApplicationMVC.csproj",
         "packagesPath": "C:\\Users\\andrey\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\IDE AI\\Cursor\\C#\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\obj\\",
+        "outputPath": "C:\\My\\IDE AI\\Cursor\\cursor_csharp\\Frimen\\034_Project\\034_WebApplicationMVC\\034_WebApplicationMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
